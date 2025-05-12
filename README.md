@@ -5,7 +5,7 @@ This project investigates the use of Random Forest for detecting credit card fra
 Language: Python
 Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, imbalanced-learn
 Techniques:
-	•	Random Forest Classifier
-	•	SMOTE (Synthetic Minority Over-sampling Technique)
-	•	Hyper-parameter tuning with RandomizedSearchCV
-	•	Performance Metrics: Precision, Recall, F1-Score, ROC-AUC
+- Random Forest Classifier
+- SMOTE (Synthetic Minority Over-sampling Technique)
+- Hyper-parameter tuning with RandomizedSearchCV
+- Performance Metrics: Precision, Recall, F1-Score, ROC-AUC
