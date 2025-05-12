@@ -9,3 +9,6 @@ Techniques:
 - SMOTE (Synthetic Minority Over-sampling Technique)
 - Hyper-parameter tuning with RandomizedSearchCV
 - Performance Metrics: Precision, Recall, F1-Score, ROC-AUC
+
+### Dataset
+The dataset used in this project is available from [Kaggle](https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud) (Credit Card Fraud Dataset).  
